@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render index.js 1`] = `
+<div>
+  <div
+    id="root"
+  >
+    <div
+      class="container"
+    >
+      <div>
+        Here be dragons
+      </div>
+      <button
+        type="button"
+      >
+        Load Rates
+      </button>
+      
+    </div>
+  </div>
+</div>
+`;
